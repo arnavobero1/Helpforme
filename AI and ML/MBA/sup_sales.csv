@@ -1,0 +1,1001 @@
+Customer type,Gender,Product line,Quantity,Payment,Rating
+Member,Female,Health and beauty,7,Ewallet,9.1
+Normal,Female,Electronic accessories,5,Cash,9.6
+Normal,Male,Home and lifestyle,7,Credit card,7.4
+Member,Male,Health and beauty,8,Ewallet,8.4
+Normal,Male,Sports and travel,7,Ewallet,5.3
+Normal,Male,Electronic accessories,7,Ewallet,4.1
+Member,Female,Electronic accessories,6,Ewallet,5.8
+Normal,Female,Home and lifestyle,10,Ewallet,8
+Member,Female,Health and beauty,2,Credit card,7.2
+Member,Female,Food and beverages,3,Credit card,5.9
+Member,Female,Fashion accessories,4,Ewallet,4.5
+Member,Male,Electronic accessories,4,Cash,6.8
+Normal,Female,Electronic accessories,5,Ewallet,7.1
+Normal,Male,Food and beverages,10,Ewallet,8.2
+Normal,Female,Health and beauty,10,Cash,5.7
+Member,Female,Sports and travel,6,Cash,4.5
+Member,Female,Health and beauty,7,Credit card,4.6
+Normal,Male,Sports and travel,6,Credit card,6.9
+Normal,Male,Food and beverages,3,Credit card,8.6
+Normal,Female,Home and lifestyle,2,Ewallet,4.4
+Member,Male,Electronic accessories,5,Ewallet,4.8
+Normal,Male,Health and beauty,3,Ewallet,5.1
+Normal,Male,Home and lifestyle,2,Credit card,4.4
+Normal,Male,Electronic accessories,5,Ewallet,9.9
+Member,Male,Sports and travel,3,Ewallet,6
+Member,Female,Home and lifestyle,8,Credit card,8.5
+Normal,Male,Fashion accessories,1,Cash,6.7
+Normal,Female,Fashion accessories,2,Credit card,7.7
+Normal,Female,Food and beverages,5,Cash,9.6
+Normal,Male,Health and beauty,9,Cash,7.4
+Normal,Male,Fashion accessories,5,Credit card,4.8
+Member,Male,Sports and travel,9,Cash,4.5
+Normal,Male,Sports and travel,8,Cash,5.1
+Normal,Male,Health and beauty,2,Credit card,5.1
+Member,Female,Food and beverages,4,Ewallet,7.5
+Member,Female,Sports and travel,1,Ewallet,6.8
+Member,Male,Sports and travel,5,Ewallet,7
+Normal,Female,Electronic accessories,9,Ewallet,4.7
+Normal,Female,Health and beauty,8,Ewallet,7.6
+Member,Male,Home and lifestyle,8,Cash,7.7
+Member,Female,Home and lifestyle,1,Ewallet,7.9
+Member,Male,Home and lifestyle,2,Cash,6.3
+Member,Female,Sports and travel,6,Cash,5.6
+Member,Female,Food and beverages,8,Cash,7.6
+Member,Male,Health and beauty,2,Cash,7.2
+Member,Female,Electronic accessories,4,Cash,9.5
+Member,Male,Health and beauty,9,Credit card,8.4
+Member,Female,Food and beverages,9,Ewallet,4.1
+Member,Male,Electronic accessories,6,Credit card,8.1
+Member,Female,Fashion accessories,10,Ewallet,7.9
+Member,Male,Food and beverages,7,Cash,9.5
+Member,Female,Food and beverages,5,Cash,8.5
+Member,Female,Fashion accessories,4,Ewallet,6.5
+Member,Male,Fashion accessories,1,Credit card,6.1
+Normal,Male,Home and lifestyle,2,Ewallet,6.5
+Normal,Female,Electronic accessories,8,Cash,8.2
+Member,Male,Home and lifestyle,2,Cash,5.8
+Normal,Male,Health and beauty,8,Ewallet,6.6
+Member,Female,Home and lifestyle,10,Cash,5.4
+Normal,Male,Electronic accessories,6,Cash,9.3
+Member,Female,Sports and travel,3,Credit card,10
+Normal,Male,Home and lifestyle,6,Ewallet,7
+Member,Female,Sports and travel,9,Ewallet,10
+Member,Male,Sports and travel,10,Credit card,8.6
+Member,Male,Health and beauty,4,Cash,7.6
+Member,Male,Health and beauty,10,Cash,5.8
+Normal,Female,Health and beauty,2,Ewallet,6.7
+Member,Female,Fashion accessories,6,Ewallet,9.9
+Normal,Male,Sports and travel,10,Cash,6.4
+Member,Female,Health and beauty,1,Cash,4.3
+Normal,Male,Food and beverages,10,Credit card,9.6
+Normal,Male,Fashion accessories,10,Cash,5.9
+Member,Female,Food and beverages,3,Ewallet,4
+Normal,Female,Electronic accessories,6,Cash,8.7
+Normal,Male,Home and lifestyle,9,Ewallet,9.4
+Normal,Female,Electronic accessories,10,Credit card,5.4
+Member,Male,Fashion accessories,9,Credit card,8.6
+Member,Female,Fashion accessories,9,Credit card,5.7
+Member,Female,Food and beverages,10,Ewallet,6.6
+Normal,Female,Health and beauty,5,Cash,6
+Normal,Female,Health and beauty,6,Credit card,5.5
+Normal,Female,Food and beverages,3,Ewallet,6.4
+Normal,Male,Food and beverages,8,Ewallet,6.6
+Member,Female,Food and beverages,4,Credit card,8.3
+Member,Male,Sports and travel,5,Cash,6.6
+Normal,Female,Sports and travel,7,Ewallet,4
+Normal,Male,Fashion accessories,5,Cash,9.9
+Member,Male,Food and beverages,7,Credit card,7.3
+Normal,Male,Sports and travel,1,Cash,5.7
+Normal,Female,Health and beauty,6,Cash,6.1
+Member,Female,Home and lifestyle,4,Cash,7.1
+Normal,Female,Sports and travel,10,Ewallet,8.2
+Member,Female,Sports and travel,7,Ewallet,5.1
+Member,Male,Health and beauty,9,Credit card,8.6
+Normal,Male,Health and beauty,1,Credit card,6.6
+Normal,Male,Electronic accessories,1,Ewallet,7.2
+Normal,Male,Health and beauty,10,Ewallet,5.1
+Normal,Female,Electronic accessories,6,Cash,4.1
+Normal,Male,Food and beverages,3,Ewallet,9.3
+Normal,Male,Home and lifestyle,6,Cash,7.4
+Member,Male,Fashion accessories,1,Cash,4.1
+Normal,Male,Fashion accessories,9,Cash,7.2
+Normal,Female,Electronic accessories,9,Cash,4.9
+Normal,Male,Food and beverages,6,Cash,9.9
+Normal,Male,Health and beauty,7,Cash,8
+Member,Male,Electronic accessories,10,Ewallet,7.3
+Normal,Male,Fashion accessories,6,Credit card,7.9
+Normal,Male,Sports and travel,6,Cash,7.4
+Normal,Female,Food and beverages,9,Cash,4.2
+Member,Male,Electronic accessories,10,Cash,9.2
+Member,Female,Sports and travel,2,Ewallet,4.6
+Member,Female,Health and beauty,3,Credit card,7.8
+Normal,Female,Fashion accessories,7,Cash,8.4
+Member,Male,Home and lifestyle,9,Ewallet,4.3
+Member,Female,Home and lifestyle,9,Credit card,9.5
+Normal,Female,Fashion accessories,3,Credit card,7.1
+Member,Male,Fashion accessories,5,Ewallet,5.3
+Member,Male,Fashion accessories,1,Ewallet,5.2
+Normal,Female,Food and beverages,10,Ewallet,6
+Normal,Male,Home and lifestyle,2,Ewallet,4.1
+Normal,Female,Electronic accessories,8,Credit card,5.2
+Member,Male,Sports and travel,7,Credit card,6.5
+Member,Male,Sports and travel,9,Credit card,4.2
+Member,Male,Home and lifestyle,8,Credit card,4.6
+Member,Female,Fashion accessories,8,Ewallet,7.3
+Normal,Female,Home and lifestyle,7,Credit card,4.5
+Normal,Female,Sports and travel,5,Cash,9
+Normal,Female,Fashion accessories,9,Credit card,5.9
+Member,Female,Food and beverages,8,Ewallet,8.5
+Normal,Female,Sports and travel,9,Ewallet,7.2
+Normal,Female,Fashion accessories,7,Cash,7.5
+Member,Female,Sports and travel,6,Cash,8.3
+Normal,Female,Sports and travel,4,Cash,7.4
+Member,Male,Electronic accessories,6,Credit card,8.8
+Normal,Female,Health and beauty,6,Ewallet,5.3
+Normal,Male,Fashion accessories,3,Cash,6.2
+Normal,Female,Electronic accessories,5,Credit card,8.8
+Member,Female,Home and lifestyle,6,Cash,9.8
+Normal,Male,Sports and travel,10,Cash,8.2
+Normal,Male,Sports and travel,8,Ewallet,9.2
+Member,Female,Sports and travel,10,Credit card,5.4
+Member,Male,Health and beauty,10,Cash,8.1
+Member,Female,Health and beauty,10,Cash,9.1
+Member,Female,Food and beverages,1,Credit card,8.4
+Normal,Female,Home and lifestyle,6,Ewallet,8
+Normal,Female,Health and beauty,6,Credit card,9.5
+Member,Female,Fashion accessories,10,Ewallet,9.2
+Normal,Male,Health and beauty,4,Credit card,5.6
+Member,Male,Home and lifestyle,8,Credit card,6.2
+Normal,Male,Health and beauty,8,Credit card,4.9
+Member,Female,Fashion accessories,4,Credit card,4.8
+Member,Male,Sports and travel,7,Credit card,7.3
+Normal,Male,Fashion accessories,9,Credit card,7.4
+Normal,Female,Food and beverages,6,Ewallet,9.9
+Normal,Female,Sports and travel,8,Cash,9.3
+Member,Male,Food and beverages,5,Credit card,9
+Member,Male,Electronic accessories,1,Cash,6.1
+Normal,Male,Home and lifestyle,5,Ewallet,9.7
+Member,Male,Health and beauty,9,Ewallet,6
+Normal,Male,Sports and travel,6,Ewallet,10
+Normal,Female,Food and beverages,8,Credit card,8.3
+Normal,Male,Sports and travel,1,Cash,6
+Normal,Male,Food and beverages,7,Credit card,7
+Normal,Male,Sports and travel,2,Ewallet,6.5
+Normal,Male,Food and beverages,10,Credit card,5.9
+Member,Male,Health and beauty,8,Ewallet,5.6
+Normal,Male,Home and lifestyle,10,Cash,4.8
+Normal,Male,Fashion accessories,10,Credit card,8.7
+Normal,Male,Food and beverages,6,Cash,6.5
+Member,Male,Sports and travel,7,Credit card,8.5
+Normal,Male,Health and beauty,5,Ewallet,5.5
+Member,Male,Food and beverages,5,Credit card,9.4
+Normal,Male,Electronic accessories,8,Cash,6.3
+Member,Male,Electronic accessories,6,Credit card,9.8
+Normal,Male,Food and beverages,8,Ewallet,8.7
+Member,Male,Home and lifestyle,9,Ewallet,8.8
+Member,Male,Food and beverages,8,Credit card,9.6
+Normal,Female,Fashion accessories,7,Credit card,4.8
+Normal,Male,Food and beverages,6,Ewallet,4.4
+Member,Male,Health and beauty,3,Ewallet,9.9
+Normal,Male,Fashion accessories,7,Cash,5.7
+Member,Male,Food and beverages,8,Cash,7.7
+Member,Male,Sports and travel,10,Ewallet,8
+Normal,Male,Health and beauty,8,Ewallet,5.7
+Normal,Female,Sports and travel,7,Credit card,6.7
+Member,Male,Food and beverages,3,Ewallet,8
+Member,Female,Home and lifestyle,8,Ewallet,7.5
+Member,Male,Home and lifestyle,4,Cash,7
+Normal,Male,Home and lifestyle,1,Ewallet,9.9
+Normal,Female,Home and lifestyle,4,Credit card,5.9
+Normal,Female,Home and lifestyle,3,Credit card,7.2
+Normal,Female,Fashion accessories,2,Ewallet,4.6
+Normal,Female,Food and beverages,9,Cash,9.2
+Normal,Male,Home and lifestyle,4,Ewallet,5.7
+Normal,Male,Electronic accessories,5,Credit card,9.9
+Member,Female,Fashion accessories,1,Cash,5
+Member,Male,Health and beauty,2,Cash,4.9
+Normal,Female,Home and lifestyle,1,Ewallet,6.1
+Normal,Male,Health and beauty,4,Credit card,8.2
+Member,Female,Food and beverages,5,Credit card,5.5
+Member,Female,Sports and travel,6,Credit card,6.8
+Member,Female,Electronic accessories,4,Cash,6.6
+Normal,Male,Electronic accessories,7,Cash,9.8
+Member,Male,Health and beauty,10,Ewallet,8.7
+Member,Male,Home and lifestyle,5,Credit card,5.4
+Normal,Female,Health and beauty,9,Ewallet,7.9
+Member,Female,Electronic accessories,9,Credit card,9.7
+Member,Female,Home and lifestyle,10,Ewallet,7.8
+Normal,Female,Fashion accessories,3,Ewallet,5.1
+Normal,Female,Electronic accessories,9,Credit card,6.5
+Normal,Male,Electronic accessories,9,Ewallet,5.9
+Normal,Female,Food and beverages,9,Cash,8.8
+Normal,Male,Home and lifestyle,5,Ewallet,4.9
+Normal,Male,Sports and travel,3,Credit card,4.4
+Member,Female,Sports and travel,7,Cash,6.5
+Normal,Male,Home and lifestyle,1,Credit card,8.3
+Normal,Female,Sports and travel,5,Cash,8.5
+Member,Female,Electronic accessories,3,Cash,5.5
+Normal,Male,Fashion accessories,8,Ewallet,8.7
+Normal,Female,Food and beverages,3,Credit card,7.9
+Normal,Male,Electronic accessories,6,Ewallet,6.1
+Normal,Male,Food and beverages,7,Ewallet,5.4
+Normal,Male,Electronic accessories,5,Cash,9.4
+Member,Female,Fashion accessories,1,Cash,8.2
+Normal,Male,Food and beverages,2,Cash,6.2
+Member,Female,Sports and travel,2,Credit card,9.7
+Member,Male,Health and beauty,9,Ewallet,4
+Member,Male,Electronic accessories,4,Ewallet,9.7
+Member,Female,Electronic accessories,6,Cash,5.3
+Normal,Female,Home and lifestyle,8,Ewallet,7.4
+Normal,Female,Fashion accessories,2,Cash,6.5
+Member,Female,Electronic accessories,3,Credit card,8.7
+Normal,Female,Health and beauty,9,Cash,8
+Member,Male,Fashion accessories,4,Cash,6.7
+Member,Male,Health and beauty,10,Ewallet,6.5
+Normal,Female,Sports and travel,2,Ewallet,4.1
+Normal,Male,Health and beauty,5,Credit card,4.9
+Member,Female,Fashion accessories,5,Credit card,8.6
+Member,Female,Electronic accessories,5,Cash,4.3
+Normal,Male,Fashion accessories,1,Ewallet,4.9
+Normal,Male,Food and beverages,9,Credit card,5.6
+Normal,Male,Health and beauty,2,Credit card,5.8
+Member,Male,Fashion accessories,2,Credit card,6
+Member,Male,Home and lifestyle,4,Cash,4.2
+Normal,Male,Home and lifestyle,8,Credit card,8.3
+Member,Male,Home and lifestyle,8,Cash,5.7
+Member,Female,Electronic accessories,3,Cash,4.8
+Member,Male,Fashion accessories,5,Ewallet,6.8
+Member,Male,Electronic accessories,4,Credit card,8.8
+Normal,Male,Food and beverages,7,Credit card,4.2
+Member,Male,Food and beverages,9,Ewallet,6.4
+Member,Male,Fashion accessories,10,Credit card,8.4
+Normal,Female,Sports and travel,2,Credit card,7.2
+Normal,Male,Home and lifestyle,4,Cash,5.2
+Member,Male,Home and lifestyle,8,Cash,8.9
+Member,Male,Fashion accessories,4,Cash,9
+Member,Male,Electronic accessories,1,Credit card,9.7
+Member,Male,Home and lifestyle,6,Ewallet,8.7
+Member,Male,Electronic accessories,4,Ewallet,6.5
+Member,Male,Electronic accessories,4,Credit card,6.9
+Normal,Female,Electronic accessories,9,Ewallet,6.2
+Normal,Female,Fashion accessories,4,Ewallet,5.6
+Member,Female,Fashion accessories,4,Cash,5.7
+Member,Female,Sports and travel,10,Cash,4.2
+Normal,Male,Sports and travel,1,Ewallet,7.9
+Member,Female,Sports and travel,7,Credit card,8.7
+Normal,Male,Home and lifestyle,4,Credit card,6.9
+Member,Female,Food and beverages,10,Cash,9.5
+Member,Male,Home and lifestyle,4,Credit card,4.4
+Member,Female,Home and lifestyle,10,Ewallet,7
+Normal,Female,Sports and travel,5,Ewallet,6.3
+Member,Female,Health and beauty,2,Cash,9.7
+Member,Female,Home and lifestyle,9,Credit card,8.8
+Normal,Female,Home and lifestyle,2,Cash,5.1
+Normal,Female,Health and beauty,6,Ewallet,7.9
+Normal,Male,Fashion accessories,7,Cash,6.2
+Member,Female,Home and lifestyle,10,Cash,7.1
+Normal,Female,Fashion accessories,4,Ewallet,6.4
+Member,Male,Fashion accessories,10,Cash,5.7
+Member,Male,Sports and travel,10,Credit card,9.6
+Normal,Female,Home and lifestyle,8,Credit card,6.4
+Normal,Male,Home and lifestyle,1,Credit card,7.9
+Normal,Female,Sports and travel,1,Cash,6.5
+Member,Male,Health and beauty,6,Ewallet,8.5
+Member,Female,Health and beauty,4,Cash,9.1
+Normal,Male,Health and beauty,5,Cash,7.6
+Member,Male,Home and lifestyle,1,Cash,6.9
+Normal,Female,Sports and travel,9,Cash,9.5
+Normal,Female,Food and beverages,7,Credit card,5.2
+Member,Female,Home and lifestyle,7,Cash,4.2
+Member,Male,Electronic accessories,10,Credit card,7
+Normal,Male,Electronic accessories,7,Ewallet,6
+Member,Female,Electronic accessories,1,Cash,4.7
+Member,Female,Food and beverages,2,Cash,7.1
+Normal,Male,Health and beauty,10,Ewallet,5.9
+Member,Female,Electronic accessories,5,Cash,7.5
+Normal,Male,Electronic accessories,4,Cash,6.4
+Member,Male,Home and lifestyle,6,Ewallet,5.8
+Member,Male,Home and lifestyle,4,Cash,4.5
+Member,Female,Home and lifestyle,1,Cash,7.7
+Normal,Male,Fashion accessories,2,Credit card,6.7
+Member,Male,Health and beauty,1,Credit card,4.7
+Normal,Male,Food and beverages,1,Cash,4.4
+Normal,Female,Electronic accessories,4,Credit card,4.7
+Normal,Female,Electronic accessories,8,Cash,8.6
+Member,Male,Electronic accessories,7,Ewallet,4.3
+Normal,Female,Sports and travel,7,Cash,9.6
+Member,Female,Home and lifestyle,8,Cash,4.1
+Member,Female,Electronic accessories,3,Ewallet,4.7
+Normal,Female,Fashion accessories,2,Cash,7.8
+Member,Male,Sports and travel,6,Cash,5.5
+Member,Male,Fashion accessories,2,Ewallet,9.7
+Member,Female,Food and beverages,5,Credit card,4.4
+Member,Female,Health and beauty,9,Cash,5
+Member,Female,Electronic accessories,10,Cash,4.4
+Member,Male,Food and beverages,2,Cash,5.2
+Member,Female,Food and beverages,3,Cash,7.3
+Member,Male,Electronic accessories,5,Cash,4.9
+Member,Female,Health and beauty,7,Credit card,8.1
+Member,Male,Health and beauty,4,Ewallet,8.4
+Normal,Female,Food and beverages,9,Cash,5.5
+Normal,Female,Health and beauty,1,Cash,8.4
+Normal,Male,Health and beauty,6,Ewallet,9.8
+Normal,Female,Fashion accessories,5,Cash,6.7
+Normal,Male,Home and lifestyle,6,Credit card,9.4
+Normal,Male,Sports and travel,4,Ewallet,6.4
+Member,Male,Food and beverages,5,Cash,5.4
+Member,Male,Food and beverages,4,Cash,8.6
+Member,Male,Health and beauty,4,Credit card,4
+Member,Male,Electronic accessories,4,Cash,7.6
+Normal,Male,Home and lifestyle,9,Cash,6.8
+Normal,Male,Food and beverages,3,Credit card,9.1
+Normal,Male,Fashion accessories,5,Cash,5.5
+Member,Male,Food and beverages,2,Credit card,7.9
+Member,Male,Sports and travel,5,Ewallet,8.5
+Member,Female,Electronic accessories,5,Credit card,9.1
+Normal,Male,Fashion accessories,9,Ewallet,7.5
+Normal,Female,Sports and travel,6,Cash,5.2
+Normal,Female,Electronic accessories,3,Credit card,9.5
+Member,Female,Food and beverages,9,Credit card,8.9
+Member,Male,Electronic accessories,3,Credit card,7.8
+Member,Female,Health and beauty,7,Ewallet,8.9
+Member,Female,Health and beauty,7,Cash,7.7
+Normal,Female,Food and beverages,5,Ewallet,9.3
+Normal,Male,Sports and travel,3,Cash,6.2
+Normal,Female,Fashion accessories,9,Ewallet,7.6
+Member,Male,Electronic accessories,1,Cash,7.3
+Member,Female,Home and lifestyle,8,Cash,4.7
+Normal,Male,Electronic accessories,7,Cash,5.1
+Normal,Female,Health and beauty,10,Credit card,4.8
+Member,Female,Fashion accessories,10,Credit card,6.6
+Normal,Male,Electronic accessories,7,Cash,5.5
+Member,Female,Fashion accessories,7,Credit card,8.5
+Member,Male,Home and lifestyle,9,Cash,4.8
+Normal,Female,Electronic accessories,1,Cash,8.4
+Member,Female,Food and beverages,4,Credit card,7.8
+Normal,Female,Fashion accessories,10,Credit card,9.3
+Normal,Female,Sports and travel,10,Cash,5.2
+Normal,Male,Electronic accessories,3,Ewallet,6.5
+Normal,Male,Sports and travel,1,Cash,5.6
+Member,Male,Food and beverages,8,Credit card,7.4
+Normal,Female,Food and beverages,8,Cash,9.1
+Normal,Male,Food and beverages,2,Ewallet,8
+Normal,Male,Home and lifestyle,6,Cash,7.2
+Normal,Female,Food and beverages,4,Cash,7.1
+Normal,Female,Fashion accessories,4,Cash,9.1
+Normal,Female,Electronic accessories,9,Cash,5.6
+Member,Male,Home and lifestyle,4,Cash,6
+Normal,Female,Sports and travel,10,Cash,5.4
+Member,Male,Electronic accessories,9,Credit card,7.8
+Member,Female,Electronic accessories,7,Cash,9.9
+Normal,Female,Fashion accessories,2,Credit card,4.9
+Normal,Female,Home and lifestyle,6,Ewallet,5.2
+Normal,Male,Fashion accessories,6,Cash,8.9
+Normal,Female,Home and lifestyle,5,Credit card,9.1
+Member,Female,Fashion accessories,5,Ewallet,7
+Member,Female,Home and lifestyle,9,Credit card,9.6
+Normal,Male,Sports and travel,7,Ewallet,8.7
+Member,Male,Fashion accessories,4,Ewallet,9.4
+Normal,Female,Electronic accessories,4,Credit card,4
+Member,Male,Sports and travel,4,Credit card,7.5
+Normal,Female,Electronic accessories,2,Cash,4.2
+Normal,Female,Food and beverages,5,Cash,9.9
+Member,Female,Food and beverages,4,Ewallet,4.2
+Normal,Female,Food and beverages,5,Ewallet,9.9
+Member,Male,Sports and travel,1,Cash,5.8
+Normal,Male,Food and beverages,6,Cash,6
+Normal,Female,Health and beauty,10,Credit card,10
+Member,Female,Fashion accessories,9,Ewallet,9.5
+Normal,Male,Food and beverages,7,Credit card,6.6
+Member,Female,Fashion accessories,3,Cash,8.1
+Normal,Female,Fashion accessories,10,Cash,9.7
+Member,Male,Electronic accessories,1,Ewallet,7.2
+Member,Female,Sports and travel,10,Credit card,6.2
+Normal,Female,Health and beauty,1,Ewallet,7.3
+Normal,Female,Health and beauty,5,Ewallet,4.3
+Normal,Female,Food and beverages,5,Ewallet,4.6
+Normal,Male,Home and lifestyle,9,Cash,5.8
+Member,Female,Health and beauty,6,Credit card,8.3
+Member,Male,Electronic accessories,9,Cash,8
+Normal,Female,Food and beverages,6,Credit card,9.4
+Normal,Male,Home and lifestyle,4,Credit card,6.2
+Member,Male,Home and lifestyle,1,Ewallet,9.8
+Normal,Female,Fashion accessories,5,Ewallet,9.6
+Member,Female,Fashion accessories,7,Ewallet,4.9
+Member,Male,Sports and travel,4,Credit card,8
+Normal,Male,Food and beverages,5,Credit card,7.8
+Member,Female,Fashion accessories,4,Cash,4.1
+Normal,Female,Home and lifestyle,4,Ewallet,5.5
+Normal,Female,Fashion accessories,5,Ewallet,5.4
+Normal,Female,Health and beauty,10,Cash,5.1
+Normal,Male,Sports and travel,2,Ewallet,6.9
+Member,Male,Health and beauty,5,Cash,7.8
+Normal,Male,Sports and travel,3,Ewallet,6.6
+Normal,Male,Home and lifestyle,8,Ewallet,9.2
+Normal,Male,Health and beauty,1,Ewallet,7.8
+Normal,Female,Home and lifestyle,4,Credit card,8.7
+Member,Female,Health and beauty,1,Ewallet,9.2
+Normal,Female,Health and beauty,2,Ewallet,8.3
+Member,Female,Electronic accessories,7,Cash,8.2
+Member,Female,Food and beverages,3,Ewallet,7.5
+Normal,Female,Electronic accessories,3,Cash,9.8
+Member,Female,Fashion accessories,10,Credit card,8.7
+Member,Male,Fashion accessories,8,Credit card,6.7
+Normal,Male,Fashion accessories,1,Cash,5
+Member,Male,Fashion accessories,9,Cash,7
+Member,Male,Health and beauty,7,Cash,8.9
+Member,Female,Food and beverages,3,Credit card,8
+Normal,Male,Sports and travel,5,Cash,6.9
+Member,Female,Home and lifestyle,10,Ewallet,7.3
+Normal,Male,Fashion accessories,2,Credit card,6.9
+Normal,Male,Food and beverages,2,Ewallet,5.7
+Normal,Female,Electronic accessories,6,Ewallet,6.4
+Normal,Male,Fashion accessories,7,Credit card,9.6
+Normal,Female,Fashion accessories,1,Credit card,6.8
+Normal,Male,Sports and travel,9,Ewallet,9
+Member,Male,Sports and travel,4,Ewallet,9.6
+Normal,Male,Home and lifestyle,6,Credit card,7.7
+Member,Male,Food and beverages,4,Ewallet,7
+Normal,Female,Electronic accessories,8,Credit card,6.5
+Member,Male,Food and beverages,5,Cash,8.1
+Member,Female,Sports and travel,8,Credit card,4.3
+Member,Female,Home and lifestyle,9,Credit card,6.5
+Normal,Male,Fashion accessories,1,Ewallet,9.5
+Normal,Female,Sports and travel,7,Cash,9.7
+Member,Female,Health and beauty,1,Credit card,9.5
+Member,Male,Food and beverages,10,Credit card,8.9
+Normal,Male,Fashion accessories,3,Credit card,6.5
+Member,Female,Health and beauty,1,Credit card,5.3
+Member,Female,Sports and travel,1,Credit card,9.6
+Normal,Female,Electronic accessories,6,Cash,6.7
+Normal,Male,Electronic accessories,6,Cash,7.6
+Normal,Female,Food and beverages,5,Ewallet,4.8
+Normal,Male,Health and beauty,1,Ewallet,5.5
+Member,Male,Electronic accessories,4,Cash,4.7
+Member,Female,Fashion accessories,5,Cash,6.9
+Member,Female,Food and beverages,9,Credit card,4.5
+Normal,Male,Electronic accessories,10,Cash,6.2
+Member,Female,Electronic accessories,10,Cash,7.6
+Normal,Male,Food and beverages,1,Credit card,7.9
+Normal,Male,Food and beverages,5,Cash,4.5
+Member,Female,Food and beverages,10,Credit card,8.7
+Normal,Female,Sports and travel,4,Cash,6.1
+Member,Female,Food and beverages,1,Cash,6.4
+Member,Male,Food and beverages,5,Credit card,9.1
+Member,Female,Sports and travel,10,Credit card,7.1
+Member,Female,Health and beauty,7,Credit card,7.7
+Normal,Male,Sports and travel,6,Cash,4.5
+Normal,Male,Food and beverages,1,Ewallet,7.2
+Member,Female,Electronic accessories,1,Cash,8.4
+Member,Female,Home and lifestyle,6,Ewallet,5.4
+Member,Female,Sports and travel,4,Cash,9.7
+Member,Male,Fashion accessories,10,Credit card,5.5
+Member,Male,Health and beauty,8,Cash,4.6
+Member,Female,Electronic accessories,5,Cash,6.6
+Normal,Male,Health and beauty,3,Credit card,6.3
+Normal,Female,Sports and travel,5,Credit card,4.2
+Normal,Male,Electronic accessories,4,Ewallet,4.4
+Normal,Male,Sports and travel,10,Ewallet,6.7
+Normal,Male,Electronic accessories,1,Ewallet,6.7
+Normal,Male,Food and beverages,8,Cash,8.4
+Normal,Female,Electronic accessories,10,Cash,6.2
+Normal,Male,Sports and travel,5,Ewallet,5
+Member,Male,Home and lifestyle,10,Cash,6
+Member,Female,Sports and travel,10,Credit card,7
+Member,Female,Sports and travel,4,Ewallet,6.6
+Normal,Female,Fashion accessories,10,Cash,7.3
+Normal,Male,Fashion accessories,4,Ewallet,8.3
+Normal,Male,Home and lifestyle,1,Cash,4.3
+Member,Female,Home and lifestyle,9,Ewallet,9.8
+Normal,Female,Fashion accessories,2,Ewallet,8.2
+Member,Female,Fashion accessories,10,Credit card,7.2
+Member,Female,Health and beauty,8,Ewallet,8.7
+Member,Female,Home and lifestyle,10,Credit card,8.4
+Normal,Male,Fashion accessories,2,Ewallet,7.1
+Normal,Male,Sports and travel,8,Cash,5.5
+Normal,Female,Electronic accessories,2,Cash,8.5
+Normal,Female,Food and beverages,6,Cash,6.2
+Member,Female,Sports and travel,1,Cash,8.9
+Member,Female,Sports and travel,8,Cash,9.6
+Member,Male,Sports and travel,1,Credit card,5.4
+Member,Female,Fashion accessories,1,Ewallet,9.1
+Normal,Male,Home and lifestyle,2,Ewallet,9
+Normal,Female,Sports and travel,2,Cash,6.3
+Normal,Male,Sports and travel,1,Credit card,9.5
+Member,Male,Electronic accessories,8,Ewallet,9.8
+Member,Female,Sports and travel,3,Cash,6.7
+Normal,Female,Food and beverages,6,Credit card,7.7
+Member,Male,Health and beauty,5,Cash,7
+Member,Female,Home and lifestyle,6,Credit card,5.1
+Member,Female,Sports and travel,7,Credit card,6.2
+Normal,Female,Home and lifestyle,5,Ewallet,6.1
+Normal,Female,Fashion accessories,7,Ewallet,9.3
+Normal,Male,Electronic accessories,7,Cash,7.6
+Member,Male,Sports and travel,7,Credit card,8.2
+Member,Female,Fashion accessories,1,Ewallet,8.5
+Member,Male,Health and beauty,5,Ewallet,9.8
+Member,Male,Home and lifestyle,5,Credit card,8.7
+Normal,Male,Home and lifestyle,2,Ewallet,9.7
+Member,Male,Sports and travel,5,Credit card,4.3
+Normal,Female,Electronic accessories,3,Credit card,7.7
+Member,Female,Home and lifestyle,6,Cash,7.3
+Member,Female,Home and lifestyle,6,Credit card,5.9
+Normal,Male,Health and beauty,2,Cash,5
+Normal,Male,Food and beverages,6,Credit card,8
+Member,Female,Sports and travel,5,Ewallet,7.1
+Normal,Male,Fashion accessories,4,Credit card,9
+Member,Male,Fashion accessories,2,Ewallet,6.7
+Member,Female,Food and beverages,10,Credit card,6.1
+Normal,Male,Sports and travel,9,Cash,9.3
+Normal,Male,Health and beauty,6,Ewallet,7
+Member,Male,Fashion accessories,8,Credit card,7.2
+Normal,Male,Electronic accessories,10,Ewallet,8.2
+Normal,Female,Food and beverages,9,Ewallet,8.4
+Normal,Female,Home and lifestyle,5,Ewallet,6.2
+Normal,Male,Home and lifestyle,7,Ewallet,7.4
+Member,Female,Fashion accessories,1,Credit card,5
+Normal,Male,Home and lifestyle,1,Ewallet,6.9
+Normal,Female,Fashion accessories,4,Credit card,4.9
+Member,Female,Food and beverages,6,Ewallet,5.1
+Normal,Male,Home and lifestyle,3,Ewallet,9.1
+Member,Male,Health and beauty,1,Credit card,7.1
+Member,Female,Sports and travel,4,Credit card,5
+Member,Male,Electronic accessories,6,Credit card,5.5
+Normal,Female,Food and beverages,1,Credit card,9.2
+Member,Male,Home and lifestyle,4,Ewallet,4.9
+Normal,Female,Fashion accessories,10,Ewallet,8.9
+Normal,Male,Sports and travel,9,Credit card,6
+Normal,Female,Sports and travel,5,Cash,4.2
+Normal,Female,Electronic accessories,6,Cash,7.3
+Normal,Male,Fashion accessories,3,Ewallet,6.5
+Normal,Female,Fashion accessories,9,Cash,8.9
+Normal,Female,Health and beauty,9,Cash,9.7
+Normal,Male,Electronic accessories,6,Credit card,8.6
+Member,Male,Electronic accessories,7,Cash,6.9
+Normal,Male,Home and lifestyle,3,Credit card,7.7
+Member,Female,Fashion accessories,2,Cash,9.5
+Member,Female,Food and beverages,10,Ewallet,4.5
+Member,Male,Food and beverages,6,Ewallet,5.6
+Member,Female,Home and lifestyle,3,Ewallet,8.2
+Normal,Male,Electronic accessories,9,Cash,7.3
+Normal,Male,Food and beverages,10,Credit card,4.4
+Normal,Female,Electronic accessories,8,Ewallet,5.7
+Member,Male,Electronic accessories,6,Ewallet,5
+Normal,Male,Fashion accessories,2,Cash,9
+Normal,Female,Food and beverages,10,Credit card,6.3
+Normal,Female,Sports and travel,10,Credit card,9.4
+Normal,Female,Fashion accessories,9,Cash,7.7
+Normal,Female,Fashion accessories,7,Credit card,5.5
+Normal,Female,Sports and travel,7,Ewallet,4.1
+Member,Female,Home and lifestyle,5,Credit card,7.6
+Member,Male,Sports and travel,10,Cash,8.6
+Member,Male,Food and beverages,7,Ewallet,8.3
+Normal,Male,Food and beverages,2,Credit card,8.1
+Normal,Male,Sports and travel,5,Credit card,8.6
+Member,Male,Fashion accessories,7,Ewallet,6.3
+Normal,Male,Food and beverages,4,Cash,5.8
+Normal,Male,Food and beverages,4,Ewallet,6.2
+Normal,Female,Health and beauty,4,Cash,7.7
+Normal,Male,Health and beauty,2,Ewallet,8.1
+Normal,Male,Food and beverages,3,Cash,7.3
+Member,Female,Health and beauty,4,Cash,8.4
+Member,Female,Fashion accessories,2,Credit card,8
+Member,Female,Fashion accessories,4,Credit card,9.5
+Normal,Male,Sports and travel,3,Ewallet,7
+Normal,Male,Health and beauty,4,Credit card,9.8
+Normal,Female,Food and beverages,3,Cash,9.2
+Normal,Female,Sports and travel,5,Ewallet,7.7
+Normal,Male,Fashion accessories,10,Cash,5.3
+Normal,Male,Health and beauty,5,Cash,4.4
+Member,Male,Health and beauty,6,Credit card,4.3
+Member,Female,Home and lifestyle,7,Ewallet,9.4
+Member,Female,Sports and travel,1,Cash,9.8
+Member,Female,Sports and travel,3,Ewallet,4.8
+Member,Male,Sports and travel,3,Cash,5.3
+Normal,Male,Health and beauty,3,Credit card,8.7
+Normal,Male,Food and beverages,3,Credit card,9.5
+Normal,Female,Sports and travel,9,Ewallet,5.3
+Normal,Female,Fashion accessories,5,Cash,9.2
+Member,Female,Home and lifestyle,2,Ewallet,9.6
+Normal,Male,Electronic accessories,1,Ewallet,6.4
+Normal,Female,Fashion accessories,1,Credit card,4.5
+Normal,Male,Food and beverages,10,Ewallet,6.9
+Normal,Female,Sports and travel,6,Ewallet,7.8
+Member,Female,Fashion accessories,7,Cash,4.5
+Normal,Male,Home and lifestyle,4,Cash,8.6
+Member,Female,Fashion accessories,7,Ewallet,5.2
+Member,Female,Food and beverages,4,Credit card,6.4
+Normal,Male,Fashion accessories,1,Ewallet,5.2
+Member,Male,Food and beverages,2,Ewallet,8.9
+Normal,Female,Electronic accessories,1,Credit card,6.2
+Member,Female,Food and beverages,9,Cash,6.7
+Member,Male,Fashion accessories,3,Cash,7.2
+Member,Male,Sports and travel,1,Credit card,9
+Member,Male,Food and beverages,10,Ewallet,4.2
+Member,Female,Sports and travel,9,Ewallet,4.2
+Member,Male,Sports and travel,6,Cash,6.9
+Member,Male,Electronic accessories,5,Ewallet,4.4
+Member,Male,Food and beverages,6,Credit card,4
+Member,Female,Fashion accessories,6,Ewallet,8.5
+Normal,Female,Food and beverages,3,Credit card,9.2
+Member,Female,Food and beverages,1,Cash,9.8
+Member,Female,Home and lifestyle,7,Credit card,4.9
+Normal,Female,Fashion accessories,10,Credit card,4.4
+Member,Male,Fashion accessories,1,Cash,6.8
+Member,Female,Food and beverages,2,Cash,9.1
+Normal,Male,Sports and travel,2,Ewallet,8.7
+Member,Male,Health and beauty,10,Cash,5
+Member,Male,Home and lifestyle,3,Ewallet,7.5
+Normal,Female,Fashion accessories,1,Credit card,8.2
+Normal,Male,Sports and travel,10,Credit card,6.7
+Normal,Male,Electronic accessories,3,Ewallet,5.4
+Member,Male,Food and beverages,2,Credit card,7
+Normal,Male,Home and lifestyle,3,Ewallet,4.7
+Member,Male,Food and beverages,3,Credit card,5
+Member,Male,Health and beauty,10,Credit card,5
+Normal,Male,Health and beauty,7,Credit card,6
+Normal,Female,Electronic accessories,1,Cash,6.3
+Member,Female,Food and beverages,5,Cash,8.5
+Normal,Male,Fashion accessories,3,Ewallet,7.5
+Member,Female,Food and beverages,3,Ewallet,6.4
+Member,Female,Electronic accessories,8,Ewallet,4.7
+Member,Male,Electronic accessories,2,Ewallet,6
+Member,Female,Food and beverages,8,Credit card,4
+Member,Male,Electronic accessories,5,Ewallet,5.5
+Member,Male,Home and lifestyle,9,Ewallet,8.7
+Normal,Male,Health and beauty,6,Cash,7.4
+Member,Male,Fashion accessories,1,Cash,5.6
+Member,Female,Sports and travel,2,Cash,6.3
+Normal,Male,Electronic accessories,10,Cash,7.1
+Normal,Male,Electronic accessories,5,Ewallet,7.8
+Normal,Female,Health and beauty,6,Cash,9.9
+Member,Male,Home and lifestyle,10,Cash,7.3
+Member,Male,Sports and travel,9,Ewallet,5.1
+Member,Male,Fashion accessories,4,Credit card,9.4
+Normal,Female,Electronic accessories,3,Credit card,5.8
+Normal,Female,Electronic accessories,1,Credit card,8
+Member,Female,Fashion accessories,3,Ewallet,7.9
+Member,Female,Sports and travel,5,Cash,5.9
+Member,Male,Fashion accessories,1,Credit card,4.9
+Normal,Female,Sports and travel,3,Cash,9.3
+Member,Male,Sports and travel,7,Credit card,7.9
+Member,Female,Fashion accessories,6,Credit card,5.9
+Member,Female,Food and beverages,10,Credit card,9.9
+Normal,Female,Sports and travel,2,Cash,7.7
+Normal,Female,Fashion accessories,4,Ewallet,7.6
+Member,Male,Food and beverages,3,Ewallet,7.7
+Normal,Female,Health and beauty,4,Ewallet,6.4
+Member,Female,Health and beauty,6,Ewallet,4.4
+Normal,Female,Sports and travel,2,Credit card,4.1
+Member,Male,Fashion accessories,10,Ewallet,4.4
+Member,Male,Food and beverages,2,Cash,5.5
+Normal,Female,Health and beauty,3,Ewallet,4
+Normal,Male,Health and beauty,8,Credit card,9.3
+Normal,Female,Electronic accessories,10,Credit card,4.8
+Member,Male,Fashion accessories,2,Cash,4.6
+Member,Female,Sports and travel,7,Credit card,7.3
+Member,Female,Food and beverages,4,Cash,6
+Normal,Male,Health and beauty,10,Ewallet,8.1
+Member,Male,Food and beverages,6,Ewallet,9.4
+Member,Female,Electronic accessories,1,Cash,6.5
+Normal,Female,Sports and travel,1,Credit card,7
+Normal,Female,Fashion accessories,6,Ewallet,7.1
+Member,Male,Fashion accessories,2,Ewallet,6.6
+Member,Female,Sports and travel,6,Ewallet,4.9
+Member,Female,Home and lifestyle,2,Credit card,6.4
+Member,Female,Sports and travel,2,Credit card,8
+Member,Male,Home and lifestyle,10,Cash,4.3
+Member,Male,Sports and travel,2,Cash,6.1
+Normal,Female,Food and beverages,3,Cash,7.5
+Member,Female,Sports and travel,9,Cash,6.7
+Member,Male,Food and beverages,7,Ewallet,5.2
+Member,Male,Health and beauty,10,Cash,8.8
+Member,Female,Fashion accessories,7,Cash,9.5
+Normal,Female,Food and beverages,9,Cash,7.6
+Member,Female,Home and lifestyle,5,Cash,6.6
+Member,Female,Sports and travel,4,Ewallet,6.9
+Normal,Male,Home and lifestyle,4,Ewallet,4.3
+Member,Male,Electronic accessories,9,Credit card,7.8
+Normal,Male,Home and lifestyle,10,Ewallet,8
+Normal,Female,Fashion accessories,8,Ewallet,9.6
+Normal,Male,Food and beverages,3,Credit card,4.3
+Member,Female,Fashion accessories,10,Credit card,5
+Member,Male,Health and beauty,9,Cash,9.2
+Member,Female,Home and lifestyle,9,Cash,6.3
+Normal,Male,Health and beauty,7,Cash,8.9
+Normal,Female,Electronic accessories,4,Ewallet,7.6
+Member,Male,Food and beverages,1,Cash,4.8
+Normal,Male,Fashion accessories,8,Ewallet,9.1
+Normal,Male,Sports and travel,3,Ewallet,6.1
+Member,Male,Food and beverages,6,Cash,9.1
+Member,Female,Home and lifestyle,4,Ewallet,8.3
+Normal,Female,Electronic accessories,9,Ewallet,7.2
+Normal,Female,Health and beauty,9,Ewallet,6
+Member,Male,Fashion accessories,8,Ewallet,8.5
+Normal,Female,Health and beauty,5,Credit card,6.6
+Member,Female,Fashion accessories,7,Ewallet,4.5
+Member,Male,Electronic accessories,3,Credit card,8.1
+Normal,Male,Fashion accessories,3,Credit card,7.2
+Member,Female,Fashion accessories,6,Credit card,6.1
+Normal,Female,Fashion accessories,7,Cash,7.1
+Member,Female,Sports and travel,9,Cash,5.1
+Normal,Male,Home and lifestyle,3,Credit card,7.9
+Member,Female,Food and beverages,7,Cash,7.4
+Member,Male,Food and beverages,4,Ewallet,7.4
+Member,Female,Health and beauty,8,Cash,6.6
+Member,Male,Home and lifestyle,3,Credit card,5.9
+Normal,Male,Sports and travel,10,Credit card,8.9
+Normal,Male,Fashion accessories,4,Ewallet,6.8
+Member,Female,Home and lifestyle,7,Cash,9.3
+Member,Female,Fashion accessories,4,Credit card,4.4
+Normal,Male,Health and beauty,3,Ewallet,4.8
+Member,Male,Fashion accessories,1,Ewallet,9.5
+Normal,Male,Electronic accessories,7,Ewallet,8.9
+Member,Male,Food and beverages,1,Ewallet,6.4
+Member,Male,Health and beauty,10,Credit card,6
+Member,Female,Home and lifestyle,7,Credit card,8.1
+Normal,Male,Electronic accessories,10,Ewallet,9
+Member,Male,Electronic accessories,8,Ewallet,6
+Normal,Male,Home and lifestyle,9,Cash,9.8
+Normal,Male,Home and lifestyle,7,Cash,8.5
+Normal,Male,Food and beverages,1,Ewallet,8.8
+Member,Female,Sports and travel,2,Ewallet,8.8
+Member,Male,Home and lifestyle,2,Ewallet,9.5
+Member,Female,Sports and travel,8,Credit card,5.6
+Member,Female,Food and beverages,1,Cash,8.6
+Member,Male,Fashion accessories,10,Credit card,5.2
+Member,Female,Home and lifestyle,5,Credit card,5.8
+Member,Female,Home and lifestyle,9,Credit card,8
+Member,Male,Health and beauty,7,Cash,9
+Member,Female,Fashion accessories,4,Ewallet,4.1
+Normal,Female,Food and beverages,5,Credit card,8.6
+Member,Female,Electronic accessories,10,Ewallet,7
+Normal,Male,Home and lifestyle,5,Ewallet,8.4
+Member,Female,Fashion accessories,3,Ewallet,7.4
+Normal,Female,Fashion accessories,8,Credit card,6.2
+Member,Female,Electronic accessories,8,Ewallet,4.9
+Normal,Female,Home and lifestyle,6,Cash,4.5
+Member,Male,Food and beverages,10,Ewallet,5.6
+Normal,Female,Food and beverages,4,Ewallet,8
+Member,Female,Food and beverages,10,Credit card,5.6
+Normal,Male,Electronic accessories,10,Credit card,4.2
+Member,Female,Fashion accessories,8,Ewallet,9.9
+Member,Female,Health and beauty,5,Ewallet,7.6
+Member,Male,Health and beauty,4,Credit card,6.6
+Normal,Female,Home and lifestyle,8,Ewallet,4.7
+Normal,Female,Fashion accessories,3,Credit card,9.8
+Normal,Male,Sports and travel,6,Cash,6.3
+Normal,Female,Electronic accessories,4,Cash,7.9
+Normal,Female,Home and lifestyle,6,Cash,7.7
+Member,Female,Sports and travel,4,Ewallet,4.5
+Member,Female,Health and beauty,7,Credit card,8
+Member,Female,Sports and travel,7,Ewallet,5.7
+Normal,Female,Food and beverages,1,Credit card,6.3
+Member,Male,Food and beverages,2,Cash,6
+Normal,Female,Food and beverages,5,Credit card,8
+Member,Male,Health and beauty,7,Credit card,4.2
+Normal,Male,Sports and travel,1,Cash,9.6
+Member,Male,Sports and travel,5,Cash,6.1
+Member,Male,Electronic accessories,9,Ewallet,5.6
+Normal,Male,Health and beauty,8,Cash,8.3
+Normal,Female,Sports and travel,4,Ewallet,7.8
+Member,Female,Fashion accessories,1,Credit card,4.1
+Normal,Female,Home and lifestyle,8,Cash,8.8
+Member,Female,Health and beauty,5,Ewallet,4.1
+Normal,Male,Electronic accessories,7,Credit card,9
+Normal,Male,Electronic accessories,8,Ewallet,5.5
+Normal,Female,Health and beauty,5,Credit card,9.3
+Member,Male,Health and beauty,3,Credit card,5.6
+Normal,Male,Sports and travel,7,Ewallet,9.7
+Normal,Male,Fashion accessories,1,Credit card,4
+Member,Male,Health and beauty,4,Credit card,9.2
+Normal,Female,Home and lifestyle,10,Credit card,4.9
+Member,Male,Electronic accessories,7,Credit card,9.3
+Normal,Female,Electronic accessories,2,Credit card,6.6
+Normal,Male,Fashion accessories,2,Ewallet,4.3
+Member,Female,Home and lifestyle,1,Cash,5.5
+Member,Female,Sports and travel,10,Cash,8.1
+Normal,Male,Health and beauty,1,Credit card,9.8
+Member,Male,Home and lifestyle,5,Ewallet,9.4
+Normal,Male,Sports and travel,6,Ewallet,7.9
+Member,Female,Electronic accessories,8,Ewallet,5.1
+Member,Male,Fashion accessories,7,Ewallet,6.9
+Member,Female,Fashion accessories,9,Cash,8
+Member,Female,Electronic accessories,9,Cash,8
+Normal,Female,Home and lifestyle,4,Cash,4.2
+Normal,Female,Sports and travel,2,Credit card,8.5
+Normal,Female,Electronic accessories,4,Cash,9
+Normal,Female,Health and beauty,1,Cash,8.6
+Normal,Female,Fashion accessories,10,Ewallet,6
+Normal,Male,Health and beauty,8,Ewallet,6.2
+Normal,Female,Electronic accessories,10,Credit card,5
+Member,Female,Sports and travel,5,Credit card,6.5
+Normal,Male,Electronic accessories,1,Cash,6
+Member,Female,Electronic accessories,8,Cash,5
+Normal,Female,Food and beverages,8,Ewallet,5
+Normal,Female,Fashion accessories,7,Cash,9.2
+Normal,Male,Food and beverages,8,Ewallet,9.6
+Member,Male,Health and beauty,4,Credit card,8.4
+Member,Male,Food and beverages,5,Credit card,6
+Normal,Male,Electronic accessories,4,Ewallet,6.7
+Member,Female,Home and lifestyle,2,Credit card,4.1
+Member,Male,Sports and travel,1,Cash,5.9
+Normal,Female,Health and beauty,3,Cash,8.7
+Member,Female,Sports and travel,7,Credit card,4.5
+Member,Female,Sports and travel,4,Credit card,6.6
+Member,Female,Health and beauty,9,Credit card,7.7
+Member,Male,Fashion accessories,3,Credit card,8.5
+Normal,Male,Electronic accessories,10,Cash,5.2
+Member,Female,Electronic accessories,10,Credit card,4.3
+Normal,Male,Electronic accessories,8,Cash,7.6
+Normal,Male,Health and beauty,4,Cash,9.5
+Member,Female,Sports and travel,8,Cash,4.1
+Member,Male,Health and beauty,1,Ewallet,9.2
+Member,Female,Home and lifestyle,7,Ewallet,5.4
+Normal,Male,Fashion accessories,1,Cash,5.8
+Member,Male,Fashion accessories,5,Ewallet,5.6
+Normal,Male,Sports and travel,6,Credit card,5.1
+Normal,Male,Electronic accessories,10,Cash,5.8
+Member,Female,Sports and travel,6,Ewallet,5
+Normal,Male,Fashion accessories,3,Cash,7.9
+Normal,Male,Electronic accessories,1,Cash,6
+Member,Female,Sports and travel,2,Credit card,5
+Member,Female,Food and beverages,2,Credit card,8.9
+Normal,Male,Fashion accessories,1,Cash,5.9
+Member,Male,Electronic accessories,3,Credit card,5.9
+Member,Male,Electronic accessories,1,Ewallet,9.7
+Normal,Female,Sports and travel,1,Credit card,8.6
+Member,Female,Food and beverages,9,Cash,4
+Normal,Female,Fashion accessories,6,Cash,4.2
+Normal,Male,Fashion accessories,1,Cash,9.2
+Normal,Female,Fashion accessories,2,Ewallet,9.2
+Normal,Male,Health and beauty,7,Ewallet,5
+Normal,Female,Electronic accessories,10,Ewallet,10
+Member,Female,Health and beauty,5,Ewallet,8.8
+Normal,Female,Fashion accessories,9,Cash,4.2
+Normal,Male,Food and beverages,8,Cash,6.3
+Member,Female,Home and lifestyle,4,Cash,8.2
+Normal,Male,Health and beauty,6,Cash,5.1
+Member,Female,Food and beverages,9,Cash,5
+Member,Female,Home and lifestyle,1,Ewallet,7
+Member,Male,Sports and travel,2,Ewallet,7.8
+Normal,Female,Home and lifestyle,9,Credit card,4.3
+Normal,Female,Home and lifestyle,7,Cash,7
+Member,Female,Electronic accessories,3,Cash,6.6
+Member,Male,Health and beauty,3,Ewallet,7.3
+Member,Male,Sports and travel,8,Credit card,6.5
+Member,Female,Health and beauty,2,Ewallet,4.9
+Member,Male,Food and beverages,3,Credit card,4.3
+Normal,Male,Sports and travel,4,Ewallet,9.3
+Member,Male,Food and beverages,7,Credit card,7.1
+Normal,Male,Fashion accessories,1,Ewallet,9.6
+Member,Female,Electronic accessories,10,Cash,6.2
+Member,Male,Sports and travel,6,Cash,9.9
+Member,Male,Home and lifestyle,4,Credit card,5.9
+Normal,Male,Home and lifestyle,8,Ewallet,6.3
+Member,Male,Fashion accessories,1,Cash,4
+Member,Male,Electronic accessories,1,Cash,6.1
+Normal,Female,Electronic accessories,8,Credit card,4.5
+Member,Female,Electronic accessories,8,Ewallet,8.6
+Member,Female,Food and beverages,10,Ewallet,6
+Member,Female,Fashion accessories,8,Credit card,9.5
+Member,Male,Sports and travel,10,Credit card,9.9
+Member,Female,Home and lifestyle,6,Ewallet,7.5
+Member,Female,Food and beverages,2,Cash,7.6
+Normal,Male,Sports and travel,7,Cash,5
+Member,Male,Food and beverages,1,Ewallet,6.7
+Member,Female,Electronic accessories,10,Ewallet,9.5
+Normal,Female,Fashion accessories,8,Ewallet,6.8
+Member,Male,Sports and travel,10,Ewallet,5.6
+Normal,Female,Health and beauty,5,Cash,7.2
+Normal,Female,Electronic accessories,8,Cash,8.1
+Member,Female,Fashion accessories,5,Credit card,8.6
+Normal,Male,Electronic accessories,5,Cash,9.4
+Member,Male,Electronic accessories,6,Credit card,8.9
+Normal,Male,Health and beauty,8,Credit card,4.2
+Normal,Male,Fashion accessories,7,Ewallet,5
+Member,Female,Food and beverages,6,Cash,8.8
+Member,Male,Health and beauty,7,Cash,5.3
+Member,Male,Food and beverages,9,Ewallet,4.6
+Member,Female,Electronic accessories,9,Credit card,7.5
+Normal,Male,Home and lifestyle,4,Ewallet,5.1
+Member,Female,Health and beauty,5,Credit card,4.2
+Normal,Male,Food and beverages,7,Cash,8.1
+Normal,Female,Health and beauty,2,Ewallet,6
+Member,Female,Home and lifestyle,4,Cash,7.9
+Normal,Male,Health and beauty,10,Credit card,8.8
+Normal,Female,Health and beauty,5,Credit card,6.6
+Member,Female,Food and beverages,2,Ewallet,6.2
+Normal,Female,Home and lifestyle,10,Credit card,4.2
+Member,Female,Food and beverages,3,Credit card,7.3
+Normal,Female,Electronic accessories,4,Ewallet,8.6
+Normal,Female,Home and lifestyle,8,Cash,6.8
+Member,Male,Fashion accessories,8,Ewallet,7.6
+Member,Female,Food and beverages,3,Cash,5.8
+Normal,Female,Electronic accessories,6,Cash,4.1
+Member,Male,Sports and travel,1,Credit card,9.3
+Normal,Female,Fashion accessories,4,Cash,6.8
+Normal,Male,Home and lifestyle,3,Ewallet,8.7
+Member,Female,Electronic accessories,3,Ewallet,6.3
+Member,Female,Home and lifestyle,9,Credit card,5.1
+Normal,Female,Home and lifestyle,6,Cash,7
+Member,Female,Home and lifestyle,2,Credit card,5.2
+Normal,Female,Sports and travel,7,Credit card,6.6
+Member,Female,Sports and travel,6,Ewallet,6.5
+Normal,Female,Electronic accessories,4,Ewallet,9
+Member,Male,Sports and travel,1,Credit card,5.2
+Member,Female,Health and beauty,9,Credit card,6.8
+Normal,Female,Electronic accessories,9,Credit card,7.6
+Normal,Male,Sports and travel,2,Ewallet,7.2
+Normal,Male,Home and lifestyle,6,Ewallet,7.1
+Member,Female,Fashion accessories,2,Credit card,9.5
+Normal,Female,Food and beverages,10,Ewallet,5.1
+Normal,Male,Health and beauty,7,Ewallet,7.6
+Normal,Female,Home and lifestyle,6,Ewallet,9.8
+Member,Male,Home and lifestyle,3,Ewallet,5.1
+Normal,Female,Health and beauty,7,Ewallet,7.5
+Normal,Female,Sports and travel,5,Cash,7.4
+Member,Female,Health and beauty,3,Cash,4.2
+Normal,Female,Food and beverages,6,Ewallet,5.9
+Normal,Male,Food and beverages,4,Ewallet,6.9
+Member,Male,Fashion accessories,9,Cash,6.6
+Normal,Female,Home and lifestyle,10,Ewallet,5.7
+Normal,Male,Health and beauty,5,Credit card,5.3
+Member,Male,Health and beauty,7,Cash,4.2
+Normal,Female,Electronic accessories,7,Credit card,7.3
+Member,Male,Electronic accessories,2,Credit card,5.3
+Member,Male,Fashion accessories,1,Ewallet,4.7
+Member,Male,Home and lifestyle,5,Ewallet,7.9
+Normal,Female,Food and beverages,8,Ewallet,8.9
+Member,Male,Health and beauty,3,Ewallet,9.3
+Member,Female,Home and lifestyle,3,Ewallet,4.7
+Member,Female,Food and beverages,4,Ewallet,8.7
+Member,Female,Food and beverages,4,Cash,7.6
+Member,Male,Home and lifestyle,6,Cash,5.7
+Normal,Female,Fashion accessories,7,Cash,6.8
+Member,Male,Food and beverages,9,Cash,5.4
+Normal,Male,Electronic accessories,6,Cash,7.1
+Normal,Female,Home and lifestyle,10,Cash,7.8
+Member,Female,Food and beverages,9,Cash,8.4
+Member,Male,Fashion accessories,1,Cash,9.8
+Member,Male,Electronic accessories,2,Cash,9.8
+Normal,Female,Fashion accessories,1,Credit card,7.4
+Member,Male,Electronic accessories,3,Cash,6.7
+Normal,Male,Food and beverages,2,Credit card,6.4
+Normal,Female,Electronic accessories,2,Credit card,5.8
+Normal,Female,Home and lifestyle,9,Ewallet,7.2
+Member,Male,Home and lifestyle,3,Credit card,9.3
+Normal,Female,Health and beauty,3,Cash,9.5
+Member,Female,Electronic accessories,5,Credit card,9
+Member,Female,Food and beverages,10,Credit card,9
+Member,Male,Home and lifestyle,7,Ewallet,6.7
+Normal,Male,Electronic accessories,7,Cash,5.5
+Normal,Male,Home and lifestyle,3,Cash,5.4
+Normal,Male,Fashion accessories,2,Cash,8.2
+Member,Male,Fashion accessories,2,Credit card,7
+Normal,Female,Food and beverages,4,Cash,8.5
+Member,Male,Food and beverages,6,Ewallet,4.9
+Normal,Female,Electronic accessories,1,Credit card,5.1
+Normal,Female,Food and beverages,1,Credit card,6.5
+Member,Male,Food and beverages,4,Cash,9.8
+Normal,Male,Health and beauty,4,Cash,8.4
+Member,Female,Sports and travel,9,Ewallet,7.4
+Normal,Male,Health and beauty,7,Cash,6.1
+Normal,Male,Electronic accessories,7,Cash,6
+Normal,Female,Fashion accessories,5,Ewallet,8.5
+Normal,Female,Health and beauty,2,Ewallet,4.3
+Member,Male,Health and beauty,8,Credit card,6.2
+Member,Male,Electronic accessories,10,Ewallet,4.3
+Member,Male,Health and beauty,8,Credit card,8.4
+Normal,Female,Food and beverages,5,Credit card,4.5
+Normal,Female,Sports and travel,10,Ewallet,6
+Normal,Male,Electronic accessories,2,Ewallet,8.8
+Normal,Male,Fashion accessories,10,Ewallet,6.6
+Member,Female,Electronic accessories,1,Ewallet,5.9
+Normal,Male,Health and beauty,1,Ewallet,6.2
+Normal,Female,Home and lifestyle,10,Ewallet,4.4
+Member,Male,Food and beverages,1,Cash,7.7
+Normal,Male,Home and lifestyle,1,Cash,4.1
+Member,Female,Fashion accessories,7,Cash,6.6

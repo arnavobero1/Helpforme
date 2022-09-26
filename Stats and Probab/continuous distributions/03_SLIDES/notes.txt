@@ -1,0 +1,54 @@
+normal = Gaussian distribution = bell shaped curve
+
+mean = median = mode
+No Skew
+
+the y axis is the relative probability
+
+2 normal distributions of babies and adults
+
+they are plotted on the same number line
+
+average baby height is 20"
+
+average adult height is 70"
+
+normal distributions are always centred around the average value
+
+just by looking at the graph we can tell the average baby will be between 19 and 21 inches tall
+
+adults are between 60 and 80 inches tall
+
+curve for babies is way taller than that of adults
+
+this is because there are many more possibilities for adult heights than for babies
+
+the more options there are for height, the less likely any specific measurement will be one of them
+
+width of the curve is defined by standard deviation 
+
+babies have a relatively small sd compared to adults
+
+sd babies = 0.6
+sd adults = 4
+
+normal curves are drawn so that 95% of measurements fall between +/- 2 sd around the mean
+
+95% of the babies are 20+/-1.2 (0.6*2) inches
+95% of the adults are 70+/-8 (4*2) inches
+
+
+
+To draw a normal distribution, we need to know:
+1) The average measurement : this tells us where the centre of the curve goes
+2) The standard deviations of the measurements, this tells us how wide the curve should be.
+
+And the with of the curve determines how tall it is.
+
+The wider the curve, the shorter. The narrower the curve, the taller.
+
+The curve tell us that there is a high probability of measuring a newborn baby boy within +/-1.2 inches of the mean and a low probability of measuring an adult within +/-1.2 inches of the mean.
+
+Note, we are using the same y axis and comparing the probability of child and adult on the same graph
+
+Normal distribution occurs in nature due tot he central limit theorem.
